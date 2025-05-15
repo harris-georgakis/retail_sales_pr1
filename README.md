@@ -1,4 +1,4 @@
-# Project Title: Retail Sales Data Analysis – A Beginner’s Exploration
+# Project Title: Retail Sales Data Analysis – Exploring Numbers that May Matter
 
 ## Project Overview
 
