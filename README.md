@@ -1,4 +1,4 @@
-# Project Title: Retail Sales Data Analysis – Exploring Numbers that May Matter
+# Project Title: Retail Sales Data Analysis – Exploring Numbers that Could Matter
 
 ## Project Overview
 
